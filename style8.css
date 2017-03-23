@@ -1,0 +1,81 @@
+h4 {
+  color: #fd4800;
+  vertical-align: middle; }
+}
+p {
+  color: #000;
+  font-size: 14px;
+}
+
+.footer-containter {
+  position: absolute;
+}
+.footer-newsletter-cw {
+  position: relative;
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  text-align: left;
+  vertical-align: middle;
+}
+.footer-newsletter-cw button {
+  display: block;
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 46px;
+  margin: 0 auto;
+  vertical-align: middle; 
+}
+.footer-telephone-cw {
+  position: relative;
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  text-align: left;
+  vertical-align: middle;
+}
+.footer-social-cw {
+  position: relative;
+  display: inline-block;
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.footer-newsletter-cw input {
+  width: auto;
+  display: block;
+  float: left;
+  height: 46px;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+.btn {
+  border-radius: 0; 
+}
+  
+.btn-orange {
+  background-color: #fd4800 !important;
+  color: #fff !important;
+  border-color: #fd4800 !important; 
+}
+
+.social-list {
+  padding-left: 0;
+  margin: 0 auto;
+  list-style: none;
+}
+.social-list li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
